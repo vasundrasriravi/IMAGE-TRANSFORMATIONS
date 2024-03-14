@@ -159,29 +159,24 @@ plt.show()
 
 ## ii) Image Scaling
 
-![Screenshot 2024-03-14 183519](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/1988a5fc-408d-44b2-8760-bf4d28d105c5)
 ![Screenshot 2024-03-14 183538](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/3578ade7-2db5-470c-a7dd-09edd5d12352)
 
 ## iii)Image shearing
 
-![Screenshot 2024-03-14 184034](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/efcc614a-1f9e-414e-9a17-baddade8576c)
 ![Screenshot 2024-03-14 184051](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/79208aec-3e45-4e67-992d-54a0bec19f19)
 ![Screenshot 2024-03-14 184106](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/a88a07d7-1f1d-435e-8727-65a82b409eaf)
 
 ## iv)Image Reflection
 
-![Screenshot 2024-03-14 184327](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/f530d897-1a92-4086-974f-76d2f2fb45ee)
 ![Screenshot 2024-03-14 184342](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/807ed51d-28c8-44a3-89e4-d1d7b66b7cc9)
 ![Screenshot 2024-03-14 184356](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/7ae6ccad-197a-41a1-83fb-d3ef5bbb9772)
 
 ## v)Image Rotation
 
-![Screenshot 2024-03-14 184547](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/27e32887-f918-4296-8848-54d4b8d0c966)
 ![Screenshot 2024-03-14 184604](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/54ff6188-bcf5-4bd1-b99b-a6aaed4f406d)
 
 ## vi)Image Cropping
 
-![Screenshot 2024-03-14 184737](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/c0741ae1-0394-475e-afca-7e76cb68a1fc)
 ![Screenshot 2024-03-14 184756](https://github.com/vasundrasriravi/IMAGE-TRANSFORMATIONS/assets/119393983/adfee936-513b-4183-a766-5635a5dfcae4)
 
 ## Result: 
